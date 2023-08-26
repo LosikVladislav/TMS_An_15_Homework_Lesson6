@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson6.part_1.store_service.model.store;
+package com.teachmeskills.lesson6.part_1.model.store;
 
-import com.teachmeskills.lesson6.part_1.store_service.model.container.ShipСontainer;
+import com.teachmeskills.lesson6.part_1.model.container.ShipСontainer;
 
 import java.util.Arrays;
 

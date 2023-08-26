@@ -1,7 +1,7 @@
-package com.teachmeskills.lesson6.part_1.store_service;
+package com.teachmeskills.lesson6.part_1;
 
-import com.teachmeskills.lesson6.part_1.store_service.model.container.ShipСontainer;
-import com.teachmeskills.lesson6.part_1.store_service.model.store.Warehouse;
+import com.teachmeskills.lesson6.part_1.model.container.ShipСontainer;
+import com.teachmeskills.lesson6.part_1.model.store.Warehouse;
 
 public class Runner {
 

@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson6.part_1.store_service.model.container;
+package com.teachmeskills.lesson6.part_1.model.container;
 
 /**
  * добавлен новый параметр price
